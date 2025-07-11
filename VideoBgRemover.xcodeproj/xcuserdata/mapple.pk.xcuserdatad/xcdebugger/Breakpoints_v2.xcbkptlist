@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F0A4D8A1-E876-4134-BDE8-FD6ECADF9C50"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A8D30D8A-6514-4A6B-926C-1FDCF7A29903"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VideoBgRemover/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "processAndExport()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A8D30D8A-6514-4A6B-926C-1FDCF7A29903 - 1b6f9b4dce7e8c19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in VideoBgRemover.ContentView.processAndExport() -&gt; ()"
+                  moduleName = "VideoBgRemover"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mapple.pk/Desktop/VideoBgRemover/VideoBgRemover/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "A8D30D8A-6514-4A6B-926C-1FDCF7A29903 - 7c4094d370009a86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in VideoBgRemover.ContentView.processAndExport() -&gt; ()"
+                  moduleName = "VideoBgRemover"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mapple.pk/Desktop/VideoBgRemover/VideoBgRemover/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "A8D30D8A-6514-4A6B-926C-1FDCF7A29903 - 40f0e4fe8cbc6023"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in VideoBgRemover.ContentView.processAndExport() -&gt; ()"
+                  moduleName = "VideoBgRemover"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mapple.pk/Desktop/VideoBgRemover/VideoBgRemover/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB1A4E15-3A19-4BA1-ADA4-10ADE0E81A03"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VideoBgRemover/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "processAndExport()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BB1A4E15-3A19-4BA1-ADA4-10ADE0E81A03 - 40f0e4fe8cbc619e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in VideoBgRemover.ContentView.processAndExport() -&gt; ()"
+                  moduleName = "VideoBgRemover"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mapple.pk/Desktop/VideoBgRemover/VideoBgRemover/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "BB1A4E15-3A19-4BA1-ADA4-10ADE0E81A03 - 8c1b12d0762b915d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;__C.UIImage&gt;, Swift.Error&gt;) -&gt; () in closure #1 @Sendable () async -&gt; () in VideoBgRemover.ContentView.processAndExport() -&gt; ()"
+                  moduleName = "VideoBgRemover"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mapple.pk/Desktop/VideoBgRemover/VideoBgRemover/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "240">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ABBABDF5-50EC-435E-B752-9869C63681B5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VideoBgRemover/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "processAndExport()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ABBABDF5-50EC-435E-B752-9869C63681B5 - 2aceca6741b6d97a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Result&lt;Foundation.URL, Swift.Error&gt;) -&gt; () in closure #1 (Swift.Result&lt;Swift.Array&lt;__C.UIImage&gt;, Swift.Error&gt;) -&gt; () in closure #1 @Sendable () async -&gt; () in VideoBgRemover.ContentView.processAndExport() -&gt; ()"
+                  moduleName = "VideoBgRemover"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mapple.pk/Desktop/VideoBgRemover/VideoBgRemover/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "ABBABDF5-50EC-435E-B752-9869C63681B5 - 318049a856d23bad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in closure #2 (Swift.Result&lt;Foundation.URL, Swift.Error&gt;) -&gt; () in closure #1 (Swift.Result&lt;Swift.Array&lt;__C.UIImage&gt;, Swift.Error&gt;) -&gt; () in closure #1 @Sendable () async -&gt; () in VideoBgRemover.ContentView.processAndExport() -&gt; ()"
+                  moduleName = "VideoBgRemover"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mapple.pk/Desktop/VideoBgRemover/VideoBgRemover/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47BA990D-4E0E-4F65-943C-06FE2C92F163"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VideoBgRemover/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "processAndExport()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
